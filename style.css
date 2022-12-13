@@ -3,17 +3,52 @@ h1{
 }
 body{
     font-style: italic;
+    border: 3px rosybrown;
+    background-image: url("download.jpeg");
 }
 .name{
     color: brown;
 }
 .half-width{
 width: 40%;
-float: left;
+float : left;
 margin-left: 5%;
 padding:2%;
 }
 .half-width img{
     width:100%;
+
+}
+
+section{
+    height: 500px;
+padding-bottom: 50px;
+}
+.link{
+    text-decoration: none;
+background-image:linear-gradient(lightsalmon,tomato);
+padding: 10px 20px;
+border-radius: 5px;
+color: aliceblue;
+font-weight: 700;
+}
+
+
+.fist{
+    box-shadow: 10px 10px 50px coral;
+border-radius: 5px;
+height:50%;
+
+}
+#full{
+border: 5px;
+border-image: :linear-gradient(lightsalmon,tomato );
+
+
+}
+
+#got{
+
+
 
 }
