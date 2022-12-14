@@ -41,14 +41,8 @@ height:50%;
 
 }
 #full{
-border: 5px;
-border-image: :linear-gradient(lightsalmon,tomato );
-
-
+border-left: 5px;
+border-image : linear-gradient(lightsalmon,tomato );
+border :image slice 1px
 }
 
-#got{
-
-
-
-}
