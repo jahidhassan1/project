@@ -4,7 +4,7 @@ h1{
 body{
     font-style: italic;
     border: 3px rosybrown;
-    background-image: url("download.jpeg");
+    
 }
 .name{
     color: brown;
@@ -43,6 +43,6 @@ height:50%;
 #full{
 border-left: 5px;
 border-image : linear-gradient(lightsalmon,tomato );
-border :image slice 1px
+border :image slice 1px;
 }
 
