@@ -4,7 +4,7 @@ h1{
 body{
     font-style: italic;
     border: 3px rosybrown;
-    
+    background-image: url("download.jpeg");
 }
 .name{
     color: brown;
